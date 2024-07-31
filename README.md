@@ -4,7 +4,7 @@ Unlike the MPI_Check and Umpire deadlock detection systems, MPIDD does not requi
 
 #How to run
 - Needs a linux kernel
-- I personalled used ubuntu virtual box
+- I personally used ubuntu virtual box
 
 1. Just type in terminal make -f Makefile
 
